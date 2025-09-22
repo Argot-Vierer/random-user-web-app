@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Friends User Web App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Random User Generator</h1>
+    <div class="filters">
+        <select id="gender-filter">
+            <option value="all">Wszystkie płcie</option>
+            <option value="female">Kobiety</option>
+            <option value="male">Mężczyźni</option>
+        </select>
+        <select id="country-filter">
+            <option value="all">Wszystkie kraje</option>
+        </select>
+        <button id="refresh-btn">Odśwież użytkowników</button>
+        <button id="export-btn">Eksportuj do CSV</button>
+    </div>
+    <ul id="user-list"></ul>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

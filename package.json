@@ -1,0 +1,14 @@
+{
+  "name": "random-user-web-app",
+  "version": "1.0.0",
+  "description": "A web application that fetches and displays random user data from an API.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
