@@ -22,7 +22,7 @@ A web application for generating and managing random user data. Uses the [Random
 - [Random User Generator API](https://randomuser.me/)
 
 ### 🚀 Demo
-Application is available at: [https://YOUR-USERNAME.github.io/random-user-web-app](https://YOUR-USERNAME.github.io/random-user-web-app)
+Application is available at: [https://frabjous-banoffee-d929bf.netlify.app](https://frabjous-banoffee-d929bf.netlify.app)
 
 ### 💻 Local Development
 1. Clone the repository:
