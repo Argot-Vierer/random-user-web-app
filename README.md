@@ -75,12 +75,12 @@ Aplikacja webowa do generowania i zarządzania losowymi danymi użytkowników. W
 - [Random User Generator API](https://randomuser.me/)
 
 ### 🚀 Demo
-Aplikacja jest dostępna pod adresem: [https://TWÓJ-USERNAME.github.io/random-user-web-app](https://TWÓJ-USERNAME.github.io/random-user-web-app)
+Aplikacja jest dostępna pod adresem: [https://frabjous-banoffee-d929bf.netlify.app](https://frabjous-banoffee-d929bf.netlify.app)
 
 ### 💻 Jak uruchomić lokalnie
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/TWÓJ-USERNAME/random-user-web-app.git
+git clone https://github.com/Argot-Vierer/random-user-web-app.git
 ```
 
 2. Przejdź do katalogu projektu:
